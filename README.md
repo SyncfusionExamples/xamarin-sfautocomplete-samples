@@ -5,7 +5,7 @@ Contains samples for AutoComplete control of Syncfusion Xamarin Forms platform
 
 This project uses the following Syncfusion controls:
 
-* [SfAutoComplete](https://www.syncfusion.com/xamarin-ui-controls/xamarin-datepicker) - To display datepicker sample.
+* [SfAutoComplete](https://www.syncfusion.com/xamarin-ui-controls/xamarin-autocomplete) - To display autocomplete sample.
 
 ## Screenshots
 
