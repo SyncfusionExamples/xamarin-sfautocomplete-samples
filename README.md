@@ -1,6 +1,6 @@
 # xamarin-sfautocomplete-samples
 Contains samples for AutoComplete control of Syncfusion Xamarin Forms platform
-# Getting Started with AutoComplete sample
+## Getting Started with AutoComplete sample
 Step 1: Add the NuGet to the project and add the namespace as shown in the following code sample:
 
 **[XAML]**
